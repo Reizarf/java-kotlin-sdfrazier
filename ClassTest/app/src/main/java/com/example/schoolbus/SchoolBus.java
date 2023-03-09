@@ -6,10 +6,6 @@ public class SchoolBus {
     private String name;
     private boolean isYellow = true;
 
-
-//3 different variable types
-    //all getters and setters complete
-
     public boolean isYellow() {
         return isYellow;
     }
@@ -40,4 +36,19 @@ public class SchoolBus {
     public void setName(String name) {
         this.name = name;
     }
+
+    //public static void
+
+    SchoolBus(double year, float price,String name, boolean isYellow){
+        this.year = year;
+        this.price = price;
+        this.name = name;
+        this.isYellow = isYellow;
+    }
+
+    SchoolBus(){
+        this(2000,2000,"George",false);
+    }//default constructor
 }
+
+
