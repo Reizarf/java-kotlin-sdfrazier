@@ -21,4 +21,4 @@
 | Status | Done |
 | Location | https://github.com/Reizarf/java-kotlin-sdfrazier/tree/main/MavsTicTacToe |
 | Self Grade | 100/100 |
-| Notes | Espresso Tests complete, screenshots placeed in directory. |
+| Notes | Espresso Tests complete, screenshots placeed in directory. Screenshots found here:https://github.com/Reizarf/java-kotlin-sdfrazier/tree/main/MavsTicTacToe/screenshots |
