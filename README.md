@@ -16,7 +16,7 @@
 | Name | Value |
 | :--- | :--- |
 | Name | Final Project |
-| Description | Tic-Tac-Toe for CMU attendees! |
+| Description | Tic-Tac-Toe for CMU students!! |
 | Due Date | 16-May-2023 |
 | Status | Done |
 | Location | https://github.com/Reizarf/java-kotlin-sdfrazier/tree/main/MavsTicTacToe |
